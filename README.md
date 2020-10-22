@@ -1,1 +1,0 @@
-# HW2-CSS-Bootstrap-Responsive-Portfolio
