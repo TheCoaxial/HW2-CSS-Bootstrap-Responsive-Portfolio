@@ -8,6 +8,8 @@ background: url("../Assets/Background-image.jpg");
 .content{
     min-height: 100%;   
     background-color:whitesmoke;
+    padding-left: 15px;
+    margin-top: 10px;
 }
 
 .content-inside{
@@ -27,11 +29,19 @@ background: url("../Assets/Background-image.jpg");
 .extra-padding{
     padding-right: 20px;
     padding-bottom: 5px;
+    
 }
 
 .background-image{
     background-image: url("Background-image");
 }
 
+h1{
+    font-family: 'Roboto', sans-serif;
+    color: teal;
+}
 
+p{
+    font-family: 'Roboto', sans-serif;
+}
 
